@@ -9,7 +9,7 @@
       <!-- Map Section-->
       <div class="brian-map-section">
         <div class="row">
-          <div class="col-md-12 col-sm-12 animate-box" data-animate-effect="fadeInUp">
+          <div class="col-md-12 col-sm-12">
             <div id="brian-contactMap">
               <!-- Map loads here -->
             </div>
