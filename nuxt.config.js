@@ -2,10 +2,13 @@ const path = require('path');
 const fs = require('fs');
 
 export default {
+  //
   server: {
+    host: '0.0.0.0',
+    port: 80,
     https: {
-      key: fs.readFileSync(path.resolve(__dirname, 'server.key')),
-      cert: fs.readFileSync(path.resolve(__dirname, 'server.crt'))
+      key: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/fullchain.pem'),
+      cert: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/privkey.pem')
     }
   },
 
