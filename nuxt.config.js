@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+console.log(fs.readFileSync('/etc/letsencrypt/live/photo.jemiloii.com/fullchain.pem', 'utf8'));
 export default {
   server: {
     host: '0.0.0.0',
