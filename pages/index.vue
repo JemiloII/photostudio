@@ -23,8 +23,8 @@
               <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Live DJ Mixing" href="/photos/home-page/dj-2.jpg">
                 <img class="img-fluid" src="/photos/home-page/dj-2.jpg">
               </a>
-              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Rem Figure at Lake Michigan" href="/photos/home-page/rem-lakeside.png">
-                <img class="img-fluid" src="/photos/home-page/rem-lakeside.png">
+              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Rem Figure at Lake Michigan" href="/photos/home-page/rem-lakeside.jpg">
+                <img class="img-fluid" src="/photos/home-page/rem-lakeside.jpg">
               </a>
             </div>
             <div class="col-12 col-md-4 animate-box" data-animate-effect="fadeInUp">
