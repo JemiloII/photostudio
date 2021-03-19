@@ -2,7 +2,8 @@
   <div class="brian-contact">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-12 text-center"> <span class="heading-meta">Location</span>
+        <div class="col-md-12 text-center">
+          <span class="heading-meta">Location</span>
           <h2 class="brian-heading animate-box" data-animate-effect="fadeInUp">Contact Us</h2>
         </div>
       </div>
