@@ -1,4 +1,5 @@
 const fs = require('fs');
+const redirectSSL = require('redirect-ssl');
 
 export default {
   server: {
@@ -12,7 +13,9 @@ export default {
   },
 
   serverMiddleware: [
-    'redirect-ssl'
+    redirectSSL.create({
+      enabled: true
+    })
   ],
 
   // Global page headers: https://go.nuxtjs.dev/config-head
