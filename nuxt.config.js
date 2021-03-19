@@ -1,16 +1,19 @@
 const fs = require('fs');
 
-console.log(fs.readFileSync('/etc/letsencrypt/live/photo.jemiloii.com/fullchain.pem', 'utf8'));
 export default {
   server: {
     host: '0.0.0.0',
-    port: 80,
+    port: 443,
     timing: false,
     https: {
       cert: fs.readFileSync('/etc/letsencrypt/live/photo.jemiloii.com/fullchain.pem', 'utf8'),
       key: fs.readFileSync('/etc/letsencrypt/live/photo.jemiloii.com/privkey.pem', 'utf8')
     }
   },
+
+  serverMiddleware: [
+    'redirect-ssl'
+  ],
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
