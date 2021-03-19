@@ -6,7 +6,8 @@ export default {
     port: 80,
     timing: false,
     https: {
-      cert: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/cert.pem', 'utf8'),
+      ca: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/chain.pem', 'utf8'),
+      cert: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/fullchain.pem', 'utf8'),
       key: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/privkey.pem', 'utf8')
     }
   },
