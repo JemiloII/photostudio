@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 (killall -9 node >> /dev/null &);
 cd /root/photostudio/ || return;
