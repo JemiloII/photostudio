@@ -8,8 +8,8 @@ export default {
     port: 80,
     timing: false,
     https: {
-      key: fs.readFileSync(path.resolve('/etc/letsencrypt/live/photography.jemiloii.com/fullchain.pem')),
-      cert: fs.readFileSync(path.resolve('/etc/letsencrypt/live/photography.jemiloii.com/privkey.pem'))
+      cert: fs.readFileSync(path.resolve('/etc/letsencrypt/live/photography.jemiloii.com/cert.pem')),
+      key: fs.readFileSync(path.resolve('/etc/letsencrypt/live/photography.jemiloii.com/privkey.pem'))
     }
   },
 
