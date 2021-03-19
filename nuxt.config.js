@@ -6,6 +6,7 @@ export default {
   server: {
     host: '0.0.0.0',
     port: 80,
+    timing: false,
     https: {
       key: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/fullchain.pem'),
       cert: fs.readFileSync('/etc/letsencrypt/live/photography.jemiloii.com/privkey.pem')
