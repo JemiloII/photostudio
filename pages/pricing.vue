@@ -6,6 +6,7 @@
         <div class="row">
           <div class="col-md-12 text-center"> <span class="heading-meta">Packages</span>
             <h2 class="brian-heading animate-box" data-animate-effect="fadeInUp">Pricing</h2>
+            <p>Cosplayers please contact me for special rates.</p>
           </div>
         </div>
         <div class="row">

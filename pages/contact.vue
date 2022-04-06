@@ -8,7 +8,7 @@
         </div>
       </div>
       <!-- Map Section-->
-      <div class="brian-map-section">
+      <div class="brian-map-section" v-if="false">
         <div class="row">
           <div class="col-md-12 col-sm-12">
             <div id="brian-contactMap">
@@ -20,12 +20,13 @@
       </div>
       <div class="row">
         <!-- Contact Info -->
-        <div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInUp">
+        <div class="mb-30 animate-box" data-animate-effect="fadeInUp">
           <h3 class="brian-contact-heading">Contact me to schedule a photo shoot.</h3>
 
           <p><b>Phone:</b> <a href="tel:+17083819854">+1 (708) 381-9854</a></p>
           <p><b>Email:</b> <a href="maito:jemiloii@gmail.com">jemiloii@gmail.com</a></p>
-          <p><b>Address:</b> 350 N Ogden Ave, Chicago, IL 60607</p>
+
+          <p>Feel free to reach out for collaborations.</p>
         </div>
         <!-- Contact Form -->
 <!--        <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">-->

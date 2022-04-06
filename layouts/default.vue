@@ -48,7 +48,7 @@
               </a>
             </li>
           </ul>
-          <p><small>&copy; 2021 All Rights Reserved.</small></p>
+          <p><small>&copy; 2022 All Rights Reserved.</small></p>
         </div>
       </aside>
       <!-- Content -->
@@ -60,7 +60,7 @@
             <div class="row">
               <div class="col-md-12 text-center">
                 <h1>Brian Jemilo II <span>Photographer</span></h1>
-                <p class="brian-lead">&copy; 2021 All rights reserved.</p>
+                <p class="brian-lead">&copy; 2022 All rights reserved.</p>
               </div>
             </div>
           </div>
