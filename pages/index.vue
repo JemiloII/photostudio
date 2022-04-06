@@ -24,9 +24,9 @@
                  href="/photos/home-page/winry.jpg">
                 <img class="img-fluid" src="/photos/home-page/winry.jpg">
               </a>
-              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Live DJ Mixing"
-                 href="/photos/home-page/dj-2.jpg">
-                <img class="img-fluid" src="/photos/home-page/dj-2.jpg">
+              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Self Portrait At The Lakeside"
+                 href="/photos/home-page/self-protrait.jpg">
+                <img class="img-fluid" src="/photos/home-page/self-protrait.jpg">
               </a>
               <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Rem Figure at Lake Michigan"
                  href="/photos/home-page/rem-lakeside.jpg">
@@ -120,9 +120,9 @@
                  href="/photos/home-page/madoka.jpg">
                 <img class="img-fluid" src="/photos/home-page/madoka.jpg">
               </a>
-              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Live Basketball Game"
-                 href="/photos/home-page/basketball.jpg">
-                <img class="img-fluid" src="/photos/home-page/basketball.jpg">
+              <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Live DJ Mixing"
+                 href="/photos/home-page/dj-2.jpg">
+                <img class="img-fluid" src="/photos/home-page/dj-2.jpg">
               </a>
               <a class="d-block brian-photo-item" data-fancybox="images" data-caption="Sleeping Baby"
                  href="/photos/home-page/baby.jpg">
